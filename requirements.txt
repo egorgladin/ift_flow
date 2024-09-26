@@ -1,0 +1,6 @@
+numpy
+matplotlib
+torch
+torchpairwise
+pykeops
+tqdm
